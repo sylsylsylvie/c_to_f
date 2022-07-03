@@ -1,1 +1,1 @@
-# c_to_f
+# C to F converter
